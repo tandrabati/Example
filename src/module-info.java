@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author TandrabatiS
+ *
+ */
+module Example {
+}
